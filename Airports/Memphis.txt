@@ -1,0 +1,94 @@
+<AirportRegion>
+	<metro>Memphis</metro>
+	<Airport>
+		<code>MEM</code>
+		<name>Memphis International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Allegiant Air</Name>
+				<Dest>AUS</Dest>
+				<Dest>FLL</Dest>
+				<Dest>LAS</Dest>
+				<Dest>SFB</Dest>
+				<Dest>AZA</Dest>
+				<Dest>PIE</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>DFW</Dest>
+				<Dest>CLT</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+				<Dest>MIA</Dest>
+				<Dest>LGA</Dest>
+				<Dest>PHL</Dest>
+				<Dest>PHX</Dest>
+				<Dest>DCA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+				<Dest>DTW</Dest>
+				<Dest>LAX</Dest>
+				<Dest>MSP</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>CVG</Dest>
+				<Dest>DTW</Dest>
+				<Dest>MSP</Dest>
+				<Dest>LGA</Dest>
+				<Dest>MCO</Dest>
+				<Dest>SLC</Dest>
+			</Airline>
+			<Airline>
+				<Name>Frontier Airlines</Name>
+				<Dest>DEN</Dest>
+				<Dest>IAD</Dest>
+			</Airline>
+			<Airline>
+				<Name>GLO Airlines</Name>
+				<Dest>MSY</Dest>
+			</Airline>
+			<Airline>
+				<Name>OneJet</Name>
+				<Dest>IND</Dest>
+			</Airline>
+			<Airline>
+				<Name>SeaPort Airlines</Name>
+				<Dest>ELD</Dest>
+				<Dest>HRO</Dest>
+				<Dest>HOT</Dest>
+				<Dest>MKL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>BWI</Dest>
+				<Dest>MDW</Dest>
+				<Dest>DAL</Dest>
+				<Dest>HOU</Dest>
+				<Dest>MCO</Dest>
+				<Dest>TPA</Dest>
+				<Dest>AUS</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Airlines</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+				<Dest>EWR</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

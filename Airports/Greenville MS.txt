@@ -1,0 +1,19 @@
+<AirportRegion>
+	<metro>Greenville, MS</metro>
+	<Airport>
+		<code>GLH</code>
+		<name>Mid Delta Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Boutique Air</Name>
+				<Dest>DFW</Dest>
+				<Dest>BNA</Dest>
+			</Airline>
+			<Airline>
+				<Name>SeaPort Airlines</Name>
+				<Dest>Memphis</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

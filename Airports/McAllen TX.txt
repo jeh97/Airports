@@ -1,0 +1,37 @@
+<AirportRegion>
+	<metro>McAllen, TX</metro>
+	<Airport>
+		<code>MFE</code>
+		<name>McAllen-Miller International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Aeromar</Name>
+				<Dest>MEX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Allegiant Air</Name>
+				<Dest>LAS</Dest>
+				<DestSznl>LAX</DestSznl>
+				<DestSznl>SFB</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Airlines</Name>
+				<Dest>IAH</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PS</FAArole>
+	</Airport>
+</AirportRegion>
+		

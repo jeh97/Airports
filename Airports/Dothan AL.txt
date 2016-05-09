@@ -1,0 +1,14 @@
+<AirportRegion>
+	<metro>Dothan, AL</metro>
+	<Airport>
+		<code>DHN</code>
+		<name>Dothan Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

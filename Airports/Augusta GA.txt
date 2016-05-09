@@ -1,0 +1,27 @@
+<AirportRegion>
+	<metro>Augusta, GA</metro>
+	<Airport>
+		<code>AGS</code>
+		<name>Augusta Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+
+				<DestSznl>LGA</DestSznl>
+				<DestSznl>PHL</DestSznl>
+				<DestSznl>DCA</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+				<DestSznl>LGA</DestSznl>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

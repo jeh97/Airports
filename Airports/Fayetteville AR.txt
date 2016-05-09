@@ -1,0 +1,46 @@
+<AirportRegion>
+	<metro>Fayetteville, AR</metro>
+	<Airport>
+		<code>XNA</code>
+		<name>Northwest Arkansas Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Allegiant Air</Name>
+				<Dest>LAS</Dest>
+				<Dest>SFB</Dest>
+
+				<DestSznl>LAX</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>DFW</Dest>
+
+				<DestSznl>ORD</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+				<Dest>LAX</Dest>
+				<Dest>LGA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+				<Dest>CVG</Dest>
+				<Dest>MSP</Dest>
+				<Dest>LGA</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>XXX</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

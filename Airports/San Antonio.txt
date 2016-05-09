@@ -1,0 +1,101 @@
+<AirportRegion>
+	<metro>San Antonio</metro>
+	<Airport>
+		<code>SAT</code>
+		<name>San Antonio International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Aeromexico Connect</Name>
+				<Dest>MEX</Dest>
+				<Dest>MTY</Dest>
+			</Airline>
+			<Airline>
+				<Name>Alaska Airlines</Name>
+				<Dest>SEA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Allegiant Air</Name>
+				<Dest>FLL</Dest>
+				<Dest>LAS</Dest>
+				<Dest>SFB</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>CLT</Dest>
+				<Dest>DFW</Dest>
+				<Dest>MIA</Dest>
+				<DestSznl>ORD</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>ORD</Dest>
+				<Dest>LAX</Dest>
+				<Dest>PHX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+				<Dest>SLC</Dest>
+				<DestSznl>DTW</DestSznl>
+				<DestSznl>MSP</DestSznl>
+				<DestSznl>JFK</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>DTW</Dest>
+				<Dest>LAX</Dest>
+				<Dest>MSP</Dest>
+				<Dest>JFK</Dest>
+				<Dest>SLC</Dest>
+			</Airline>
+			<Airline>
+				<Name>Frontier Airlines</Name>
+				<Dest>ATL</Dest>
+				<Dest>DEN</Dest>
+				<Dest>LAS</Dest>
+				<Dest>PHL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Interjet</Name>
+				<Dest>GDL</Dest>
+				<Dest>MEX</Dest>
+				<Dest>MTY</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>ATL</Dest> <Dest>BWI</Dest> <Dest>MDW</Dest> <Dest>DAL</Dest> <Dest>DEN</Dest>
+				<Dest>ELP</Dest> <Dest>HOU</Dest> <Dest>LAS</Dest> <Dest>LAX</Dest> <Dest>BNA</Dest>
+				<Dest>MSY</Dest> <Dest>MCO</Dest> <Dest>PHX</Dest> <Dest>SAN</Dest> <Dest>STL</Dest>
+				<Dest>TPA</Dest> 
+				
+				<DestSznl>CUN</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>United Airlines</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+				<Dest>EWR</Dest>
+				<DestSznl>CUN</DestSznl>
+				<DestSznl>LAX</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+				<Dest>SFO</Dest>
+				<Dest>IAD</Dest>
+
+				<DestSznl>LAX</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Volaris</Name>
+				<Dest>GDL</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PM</FAArole>
+	</Airport>
+</AirportRegion>
+		

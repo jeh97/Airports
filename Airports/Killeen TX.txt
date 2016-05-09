@@ -1,0 +1,23 @@
+<AirportRegion>
+	<metro>Killeen, TX</metro>
+	<Airport>
+		<code>GRK</code>
+		<name>Killeen-Fort Hood Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PN</FAArole>
+	</Airport>
+</AirportRegion>
+		

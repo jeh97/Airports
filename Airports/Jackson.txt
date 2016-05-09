@@ -1,0 +1,25 @@
+<AirportRegion>
+	<metro>Jackson</metro>
+	<Airport>
+		<code>JAN</code>
+		<name>Jackson-Evers International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>DFW</Dest>
+				<Dest>DCA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

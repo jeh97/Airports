@@ -1,0 +1,16 @@
+<AirportRegion>
+	<metro>El Dorado, AR</metro>
+	<Airport>
+		<code>ELD</code>
+		<name>South Airkansas Regional Airport at Goodwin Field</name>
+		<Destinations>
+			<Airline>
+				<Name>SeaPort Airlines</Name>
+				<Dest>HOT</Dest>
+				<Dest>IAH</Dest>
+				<Dest>MEM</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

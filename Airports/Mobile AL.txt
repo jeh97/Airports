@@ -1,0 +1,28 @@
+<AirportRegion>
+	<metro>Mobile, AL</metro>
+	<Airport>
+		<code>MOB</code>
+		<name>Mobile Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

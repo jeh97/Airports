@@ -1,0 +1,18 @@
+<AirportRegion>
+	<metro>Fort Smith, AR</metro>
+	<Airport>
+		<code>FSM</code>
+		<name>Fort Smith Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

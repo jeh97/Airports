@@ -1,0 +1,15 @@
+<AirportRegion>
+	<metro>Hattiesburg, MS</metro>
+	<Airport>
+		<code>PIB</code>
+		<name>Hattiesburg-Laurel Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+				<Dest>MEI</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

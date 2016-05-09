@@ -1,0 +1,15 @@
+<AirportRegion>
+	<metro>Branson</metro>
+	<Airport>
+		<code>BKG</code>
+		<name>Branson Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Buzz Airways</Name>
+				<DestSznl>AUS</DestSznl>
+				<DestSznl>MDW</DestSznl>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

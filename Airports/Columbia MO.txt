@@ -1,0 +1,16 @@
+<AirportRegion>
+	<metro>Columbia, MO</metro>
+	<Airport>
+		<code>COU</code>
+		<name>Columbia Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PN</FAArole>
+	</Airport>
+</AirportRegion>
+		

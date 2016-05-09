@@ -1,0 +1,57 @@
+<AirportRegion>
+	<metro>Savannah, GA</metro>
+	<Airport>
+		<code>SAV</code>
+		<name>Savannah/Hilton Head International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Allegiant Air</Name>
+				<Dest>BWI</Dest>
+				<Dest>CVG</Dest>
+
+				<DestSznl>CAK</DestSznl>
+				<DestSznl>LCK</DestSznl>
+				<DestSznl>IND</DestSznl>
+				<DestSznl>LEX</DestSznl>
+				<DestSznl>PIT</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>DFW</Dest>
+				<Dest>PHL</Dest>
+
+				<DestSznl>DCA</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>DTW</Dest>
+				<Dest>JFK</Dest>
+				<Dest>LGA</Dest>
+
+				<DestSznl>MSP</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>JetBlue Airways</Name>
+				<Dest>BOS</Dest>
+				<Dest>JFK</Dest>
+			</Airline>
+			<Airline>
+				<Name>Sun Country Airlines</Name>
+				<DestSznl>MSP</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>IAH</Dest>
+				<Dest>EWR</Dest>
+				<Dest>IAD</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

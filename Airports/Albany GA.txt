@@ -1,0 +1,14 @@
+<AirportRegion>
+	<metro>Albany, GA</metro>
+	<Airport>
+		<code>ABY</code>
+		<name>Southwest Georgia Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

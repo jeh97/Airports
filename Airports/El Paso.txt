@@ -1,0 +1,48 @@
+<AirportRegion>
+	<metro>El Paso</metro>
+	<Airport>
+		<code>ELP</code>
+		<name>El Paso International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Allegiant Air</Name>
+				<Dest>LAS</Dest>
+				<Dest>SAN</Dest>
+				
+				<Dest>SFB</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+				<Dest>LAX</Dest>
+				<Dest>PHX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>AUS</Dest>
+				<Dest>DAL</Dest>
+				<Dest>HOU</Dest>
+				<Dest>LAS</Dest>
+				<Dest>LAX</Dest>
+				<Dest>PHX</Dest>
+				<Dest>SAT</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PS</FAArole>
+	</Airport>
+</AirportRegion>
+		

@@ -1,0 +1,18 @@
+<AirportRegion>
+	<metro>Columbus/West Point/Starkville, MS</metro>
+	<Airport>
+		<code>GTR</code>
+		<name>Golden Triangle Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

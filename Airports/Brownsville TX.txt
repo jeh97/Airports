@@ -1,0 +1,19 @@
+<AirportRegion>
+	<metro>Brownsville, TX</metro>
+	<Airport>
+		<code>BRO</code>
+		<name>Brownsville/South Padre Island International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PN</FAArole>
+	</Airport>
+</AirportRegion>
+		

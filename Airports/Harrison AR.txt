@@ -1,0 +1,15 @@
+<AirportRegion>
+	<metro>Harrison, AR</metro>
+	<Airport>
+		<code>HRO</code>
+		<name>Boone Country Airport (Arkansas)</name>
+		<Destinations>
+			<Airline>
+				<Name>SeaPort Airlines</Name>
+				<Dest>MEM</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>XX</FAArole>
+	</Airport>
+</AirportRegion>
+		

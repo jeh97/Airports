@@ -1,0 +1,14 @@
+<AirportRegion>
+	<metro>Jonesboro, AR</metro>
+	<Airport>
+		<code>JBR</code>
+		<name>Jonesboro Municipal Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Air Choice One</Name>
+				<Dest>STL</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

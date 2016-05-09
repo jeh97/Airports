@@ -1,0 +1,18 @@
+<AirportRegion>
+	<metro>Lake Charles</metro>
+	<Airport>
+		<code>LCH</code>
+		<name>Lake Charles Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

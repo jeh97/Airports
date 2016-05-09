@@ -1,0 +1,14 @@
+<AirportRegion>
+	<metro>Tupelo, MS</metro>
+	<Airport>
+		<code>TUP</code>
+		<name>Tupelo Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Contour Airlines</Name>
+				<Dest>BNA</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

@@ -1,0 +1,399 @@
+<AirportRegion>
+	<metro>New York City</metro>
+	<Airport>
+		<code>JFK</code>
+		<name>John F. Kennedy International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Aeromexico</Name>
+				<Dest>XXX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Aeromexico Connect</Name>
+				<Dest>XXX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Air Canada Express</Name>
+				<Dest>YYZ</Dest>
+			</Airline>
+			<Airline>
+				<Name>Alaska Airlines</Name>
+				<Dest>SEA</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>ANU</Dest> <Dest>AUS</Dest> <Dest>BDA</Dest> <Dest>BOS</Dest> <Dest>CUN</Dest>
+				<Dest>CCS</Dest> <Dest>CLT</Dest> <Dest>ORD</Dest> <Dest>DFW</Dest> <Dest>LAS</Dest>
+				<Dest>LHR</Dest> <Dest>LAX</Dest> <Dest>MIA</Dest> <Dest>MCO</Dest> <Dest>PHX</Dest>
+				<Dest>PAP</Dest> <Dest>STT</Dest> <Dest>SAN</Dest> <Dest>SFO</Dest> <Dest>SJU</Dest>
+				<Dest>SEA</Dest> <Dest>DCA</Dest> <Dest>EGE</Dest> <Dest>PUJ</Dest> <Dest>SJO</Dest>
+				<Dest>SKB</Dest> <Dest>SXM</Dest> <Dest>HAV</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>BWI</Dest> <Dest>CVG</Dest> <Dest>CLE</Dest> <Dest>CMH</Dest> <Dest>IND</Dest>
+				<Dest>YUL</Dest> <Dest>BNA</Dest> <Dest>ORF</Dest> <Dest>PIT</Dest> <Dest>RDU</Dest>
+				<Dest>YYZ</Dest> <Dest>DCA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Caribbean Airlines</Name>
+				<Dest>GEO</Dest>
+				<Dest>GND</Dest>
+				<Dest>KIN</Dest>
+				<Dest>MBJ</Dest>
+				<Dest>POS</Dest>
+				<Dest>TAB</Dest>
+			</Airline>
+			<Airline>
+				<Name>Cayman Airways</Name>
+				<Dest>GCM</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest> <Dest>AUS</Dest> <Dest>BOS</Dest> <Dest>ORD</Dest> <Dest>CHS</Dest>
+				<Dest>DEN</Dest> <Dest>DTW</Dest> <Dest>FLL</Dest> <Dest>LAS</Dest> <Dest>MIA</Dest>
+				<Dest>MSP</Dest> <Dest>MSY</Dest> <Dest>MCO</Dest> <Dest>PHX</Dest> <Dest>RDU</Dest>
+				<Dest>SLC</Dest> <Dest>SAT</Dest> <Dest>SAN</Dest> <Dest>SJU</Dest> <Dest>TPA</Dest>
+				<Dest>BUF</Dest> <Dest>RSW</Dest> <Dest>HNL</Dest> <Dest>JAC</Dest> <Dest>PIT</Dest>
+				<Dest>SRQ</Dest> <Dest>DCA</Dest> <Dest>PBI</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>BWI</Dest> <Dest>BOS</Dest> <Dest>ORD</Dest> <Dest>CVG</Dest> <Dest>CLE</Dest>
+				<Dest>CMH</Dest> <Dest>DFW</Dest> <Dest>DTW</Dest> <Dest>YHZ</Dest> <Dest>IND</Dest>
+				<Dest>JAX</Dest> <Dest>MSP</Dest> <Dest>YUL</Dest> <Dest>ORF</Dest> <Dest>YOW</Dest>
+				<Dest>PHL</Dest> <Dest>PIT</Dest> <Dest>YQB</Dest> <Dest>RDU</Dest> <Dest>RIC</Dest>
+				<Dest>ROC</Dest> <Dest>SAV</Dest> <Dest>SYR</Dest> <Dest>YYZ</Dest> <Dest>IAD</Dest>
+				<Dest>DCA</Dest> <Dest>MVY</Dest> <Dest>ACK</Dest> <Dest>SRQ</Dest> <Dest>PBI</Dest>
+				<Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Hawaiian Airlines</Name>
+				<Dest>HNL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Interjet</Name>
+				<Dest>MEX</Dest>
+			</Airline>
+			<Airline>
+				<Name>JetBlue Airways</Name>
+				<Dest>BQN</Dest> <Dest>ABQ</Dest> <Dest>ANU</Dest> <Dest>AUA</Dest> <Dest>AUS</Dest>
+				<Dest>BGI</Dest> <Dest>BDA</Dest> <Dest>BOS</Dest> <Dest>BUF</Dest> <Dest>BUR</Dest>
+				<Dest>BTV</Dest> <Dest>CUN</Dest> <Dest>CTG</Dest> <Dest>CHS</Dest> <Dest>CLT</Dest>
+				<Dest>ORD</Dest> <Dest>DAB</Dest> <Dest>DEN</Dest> <Dest>FLL</Dest> <Dest>RSW</Dest>
+				<Dest>GCM</Dest> <Dest>GND</Dest> <Dest>HOU</Dest> <Dest>JAX</Dest> <Dest>KIN</Dest>
+				<Dest>LRM</Dest> <Dest>LAS</Dest> <Dest>LIR</Dest> <Dest>LGB</Dest> <Dest>LAX</Dest>
+				<Dest>MBJ</Dest> <Dest>NAS</Dest> <Dest>MSY</Dest> <Dest>OAK</Dest> <Dest>MCO</Dest>
+				<Dest>PHX</Dest> <Dest>PSE</Dest> <Dest>PAP</Dest> <Dest>POS</Dest> <Dest>PWM</Dest>
+				<Dest>PDX</Dest> <Dest>PLS</Dest> <Dest>POP</Dest> <Dest>PUJ</Dest> <Dest>RDU</Dest>
+				<Dest>RNO</Dest> <Dest>ROC</Dest> <Dest>SMF</Dest> <Dest>UVF</Dest> <Dest>SXM</Dest>
+				<Dest>SLC</Dest> <Dest>AZS</Dest> <Dest>SAN</Dest> <Dest>SFO</Dest> <Dest>SJC</Dest>
+				<Dest>SJU</Dest> <Dest>STI</Dest> <Dest>SDQ</Dest> <Dest>SRQ</Dest> <Dest>SAV</Dest>
+				<Dest>SEA</Dest> <Dest>SYR</Dest> <Dest>TPA</Dest> <Dest>IAD</Dest> <Dest>PBI</Dest>
+				<Dest>CUR</Dest> <Dest>HYA</Dest> <Dest>MVY</Dest> <Dest>ACK</Dest> <Dest>PSP</Dest>
+				<Dest>HAV</Dest>
+			</Airline>
+			<Airline>
+				<Name>Sun Country Airlines</Name>
+				<Dest>MSP</Dest>
+				<Dest>HAV</Dest>
+			</Airline>
+			<Airline>
+				<Name>TAM Airlines</Name>
+				<Dest>GIG</Dest>
+				<Dest>GRU</Dest>
+				<Dest>YYZ</Dest>
+			</Airline>
+			<Airline>
+				<Name>Virgin America</Name>
+				<Dest>FLL</Dest>
+				<Dest>LAS</Dest>
+				<Dest>LAX</Dest>
+				<Dest>SFO</Dest>
+				<Dest>PSP</Dest>
+			</Airline>
+			<Airline>
+				<Name>Volaris</Name>
+				<Dest>GDL</Dest>
+			</Airline>
+			<Airline>
+				<Name>WestJet</Name>
+				<Dest>YYC</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+	<Airport>
+		<code>LGA</code>
+		<name>LaGuardia Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Air Canada</Name>
+				<Dest>YUL</Dest>
+				<Dest>YYZ</Dest>
+			</Airline>
+			<Airline>
+				<Name>Air Canada Express</Name>
+				<Dest>YUL</Dest>
+				<Dest>YOW</Dest>
+				<Dest>YYZ</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>CLT</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+				<Dest>MIA</Dest>
+				<Dest>MCO</Dest>
+				<Dest>PHL</Dest>
+				<Dest>PIT</Dest>
+				<Dest>PBI</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CAK</Dest> <Dest>ATL</Dest> <Dest>CLT</Dest> <Dest>CHO</Dest> <Dest>CVG</Dest>
+				<Dest>CLE</Dest> <Dest>CMH</Dest> <Dest>DAY</Dest> <Dest>DTW</Dest> <Dest>XNA</Dest>
+				<Dest>GSO</Dest> <Dest>IND</Dest> <Dest>JAX</Dest> <Dest>MCI</Dest> <Dest>MEM</Dest>
+				<Dest>MSP</Dest> <Dest>YUL</Dest> <Dest>BNA</Dest> <Dest>ORF</Dest> <Dest>PHL</Dest>
+				<Dest>PIT</Dest> <Dest>RDU</Dest> <Dest>RIC</Dest> <Dest>ROA</Dest> <Dest>STL</Dest>
+				<Dest>YYZ</Dest> <Dest>ILM</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Airlines Shuttle</Name>
+				<Dest>BOS</Dest>
+				<Dest>DCA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest> <Dest>BUF</Dest> <Dest>DEN</Dest> <Dest>DTW</Dest> <Dest>FLL</Dest>
+				<Dest>MIA</Dest> <Dest>MKE</Dest> <Dest>MSP</Dest> <Dest>MSY</Dest> <Dest>MCO</Dest>
+				<Dest>TPA</Dest> <Dest>PBI</Dest> <Dest>AUA</Dest> <Dest>BZN</Dest> <Dest>CVG</Dest>
+				<Dest>RSW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>AVL</Dest> <Dest>BGR</Dest> <Dest>BHM</Dest> <Dest>BUF</Dest> <Dest>BTV</Dest>
+				<Dest>CHS</Dest> <Dest>CLT</Dest> <Dest>CHO</Dest> <Dest>CVG</Dest> <Dest>CLE</Dest>
+				<Dest>CAE</Dest> <Dest>CMH</Dest> <Dest>DFW</Dest> <Dest>DAY</Dest> <Dest>DSM</Dest>
+				<Dest>XNA</Dest> <Dest>RSW</Dest> <Dest>GRR</Dest> <Dest>GSP</Dest> <Dest>GSO</Dest>
+				<Dest>IAH</Dest> <Dest>IND</Dest> <Dest>JAX</Dest> <Dest>MCI</Dest> <Dest>TYS</Dest>
+				<Dest>LEX</Dest> <Dest>SDF</Dest> <Dest>MSN</Dest> <Dest>MHT</Dest> <Dest>MEM</Dest>
+				<Dest>MKE</Dest> <Dest>MSP</Dest> <Dest>YUL</Dest> <Dest>BNA</Dest> <Dest>ORF</Dest>
+				<Dest>OMA</Dest> <Dest>PIT</Dest> <Dest>PWM</Dest> <Dest>RDU</Dest> <Dest>RIC</Dest>
+				<Dest>ROC</Dest> <Dest>STL</Dest> <Dest>SRQ</Dest> <Dest>SAV</Dest> <Dest>SYR</Dest>
+				<Dest>EYW</Dest> <Dest>MIA</Dest> <Dest>MYR</Dest> <Dest>ACK</Dest> <Dest>MCO</Dest>
+				<Dest>TPA</Dest> <Dest>TVC</Dest> <Dest>ILM</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Shuttle</Name>
+				<Dest>BOS</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DCA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Frontier Airlines</Name>
+				<Dest>ATL</Dest>
+				<Dest>MIA</Dest>
+				<Dest>DEN</Dest>
+			</Airline>
+			<Airline>
+				<Name>JetBlue Airways</Name>
+				<Dest>FLL</Dest>
+				<Dest>RSW</Dest>
+				<Dest>MCO</Dest>
+				<Dest>SRQ</Dest>
+				<Dest>TPA</Dest>
+				<Dest>PBI</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>ATL</Dest>
+				<Dest>MDW</Dest>
+				<Dest>DAL</Dest>
+				<Dest>DEN</Dest>
+				<Dest>HOU</Dest>
+				<Dest>IND</Dest>
+				<Dest>MCI</Dest>
+				<Dest>MKE</Dest>
+				<Dest>BNA</Dest>
+				<Dest>STL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Spirit Airlines</Name>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+				<Dest>DTW</Dest>
+				<Dest>FLL</Dest>
+				<Dest>MYR</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Airlines</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+				<Dest>AUA</Dest>
+				<Dest>MTJ</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>CLE</Dest>
+				<Dest>IAD</Dest>
+			</Airline>
+			<Airline>
+				<Name>Virgin America</Name>
+				<Dest>DAL</Dest>
+			</Airline>
+			<Airline>
+				<Name>WestJet</Name>
+				<Dest>YYZ</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+	<Airport>
+		<code>EWR</code>
+		<name>Newark Liberty International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Air Canada</Name>
+				<Dest>YYC</Dest>
+				<Dest>YYZ</Dest>
+				<Dest>YVR</Dest>
+			</Airline>
+			<Airline>
+				<Name>Air Canada Express</Name>
+				<Dest>YUL</Dest>
+				<Dest>YYZ</Dest>
+			</Airline>
+			<Airline>
+				<Name>Alaska Airlines</Name>
+				<Dest>SEA</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>CLT</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+				<Dest>MIA</Dest>
+				<Dest>PHX</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>ORD</Dest>
+				<Dest>PHL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>AMS</Dest>
+				<Dest>ATL</Dest>
+				<Dest>DTW</Dest>
+				<Dest>MSP</Dest>
+				<Dest>CDG</Dest>
+				<Dest>SLC</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>CVG</Dest>
+				<Dest>DTW</Dest>
+				<Dest>MSP</Dest>
+			</Airline>
+			<Airline>
+				<Name>Elite Airways</Name>
+				<Dest>MLB</Dest>
+				<Dest>VRB</Dest>
+			</Airline>
+			<Airline>
+				<Name>JetBlue Airways</Name>
+				<Dest>BOS</Dest>
+				<Dest>FLL</Dest>
+				<Dest>RSW</Dest>
+				<Dest>MCO</Dest>
+				<Dest>SJU</Dest>
+				<Dest>STI</Dest>
+				<Dest>TPA</Dest>
+				<Dest>PBI</Dest>
+			</Airline>
+			<Airline>
+				<Name>Porter Airlines</Name>
+				<Dest>YTZ</Dest>
+				<Dest>YTM</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>AUS</Dest>
+				<Dest>MDW</Dest>
+				<Dest>DEN</Dest>
+				<Dest>HOU</Dest>
+				<Dest>LAS</Dest>
+				<Dest>BNA</Dest>
+				<Dest>MCO</Dest>
+				<Dest>PHX</Dest>
+				<Dest>STL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Sunwing Airlines</Name>
+				<Dest>FPO</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Airlines</Name>
+				<Dest>BQN</Dest> <Dest>AMS</Dest> <Dest>ANU</Dest> <Dest>AUA</Dest> <Dest>ATL</Dest>
+				<Dest>AUS</Dest> <Dest>BCN</Dest> <Dest>PEK</Dest> <Dest>BFS</Dest> <Dest>TXL</Dest>
+				<Dest>BDA</Dest> <Dest>BHX</Dest> <Dest>BOG</Dest> <Dest>BOS</Dest> <Dest>BRU</Dest>
+				<Dest>CUN</Dest> <Dest>ORD</Dest> <Dest>CLE</Dest> <Dest>DFW</Dest> <Dest>DEL</Dest>
+				<Dest>DEN</Dest> <Dest>DUB</Dest> <Dest>EDI</Dest> <Dest>FLL</Dest> <Dest>RSW</Dest>
+				<Dest>FRA</Dest> <Dest>GVA</Dest> <Dest>GLA</Dest> <Dest>GUA</Dest> <Dest>HAM</Dest>
+				<Dest>HKG</Dest> <Dest>HNL</Dest> <Dest>IAH</Dest> <Dest>LAS</Dest> <Dest>LIM</Dest>
+				<Dest>LIS</Dest> <Dest>LHR</Dest> <Dest>LAX</Dest> <Dest>MAD</Dest> <Dest>MAN</Dest>
+				<Dest>MEX</Dest> <Dest>MIA</Dest> <Dest>MXP</Dest> <Dest>MBJ</Dest> <Dest>BOM</Dest>
+				<Dest>MUC</Dest> <Dest>BNA</Dest> <Dest>NAS</Dest> <Dest>MSY</Dest> <Dest>SNA</Dest>
+				<Dest>MCO</Dest> <Dest>PTY</Dest> <Dest>CDG</Dest> <Dest>PHX</Dest> <Dest>POS</Dest>
+				<Dest>PDX</Dest> <Dest>PLS</Dest> <Dest>POP</Dest> <Dest>PVR</Dest> <Dest>PUJ</Dest>
+				<Dest>SAT</Dest> <Dest>SAN</Dest> <Dest>SFO</Dest> <Dest>SJO</Dest> <Dest>SJD</Dest>
+				<Dest>SJU</Dest> <Dest>SAP</Dest> <Dest>SDQ</Dest> <Dest>STI</Dest> <Dest>GRU</Dest>
+				<Dest>SEA</Dest> <Dest>PVG</Dest> <Dest>SNN</Dest> <Dest>UVF</Dest> <Dest>SXM</Dest>
+				<Dest>TPA</Dest> <Dest>TLV</Dest> <Dest>NRT</Dest> <Dest>IAD</Dest> <Dest>PBI</Dest>
+				<Dest>ZRH</Dest> <Dest>ATH</Dest> <Dest>BZE</Dest> <Dest>BON</Dest> <Dest>BZM</Dest>
+				<Dest>CZM</Dest> <Dest>EGE</Dest> <Dest>GCM</Dest> <Dest>HDN</Dest> <Dest>JAC</Dest>
+				<Dest>LIR</Dest> <Dest>MTJ</Dest> <Dest>NCL</Dest> <Dest>OSL</Dest> <Dest>RDU</Dest>
+				<Dest>FCO</Dest> <Dest>SAL</Dest> <Dest>SRQ</Dest> <Dest>SKB</Dest> <Dest>YYT</Dest>
+				<Dest>STT</Dest> <Dest>YVR</Dest> <Dest>VCE</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest>
+				<Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest>
+				<Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest>
+				<Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest>
+				<Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest>
+				<Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest>
+				<Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest> <Dest>XXX</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>CAK</Dest> <Dest>ALB</Dest> <Dest>AVL</Dest> <Dest>ATL</Dest> <Dest>AUS</Dest>
+				<Dest>BWI</Dest> <Dest>BGM</Dest> <Dest>BOS</Dest> <Dest>BUF</Dest> <Dest>BTV</Dest>
+				<Dest>CHS</Dest> <Dest>CLT</Dest> <Dest>ORD</Dest> <Dest>CVG</Dest> <Dest>CLE</Dest>
+				<Dest>CMH</Dest> <Dest>DFW</Dest> <Dest>DAY</Dest> <Dest>DSM</Dest> <Dest>DTW</Dest>
+				<Dest>XNA</Dest> <Dest>GRR</Dest> <Dest>GSO</Dest> <Dest>GSP</Dest> <Dest>YHZ</Dest>
+				<Dest>MDT</Dest> <Dest>BDL</Dest> <Dest>IND</Dest> <Dest>ITH</Dest> <Dest>JAX</Dest>
+				<Dest>MCI</Dest> <Dest>TYS</Dest> <Dest>YXU</Dest> <Dest>SDF</Dest> <Dest>MSN</Dest>
+				<Dest>MHT</Dest> <Dest>MEM</Dest> <Dest>MKE</Dest> <Dest>MSP</Dest> <Dest>YUL</Dest>
+				<Dest>BNA</Dest> <Dest>MSY</Dest> <Dest>ORF</Dest> <Dest>OKC</Dest> <Dest>OMA</Dest>
+				<Dest>YOW</Dest> <Dest>PIT</Dest> <Dest>PWM</Dest> <Dest>PVD</Dest> <Dest>YQB</Dest>
+				<Dest>RDU</Dest> <Dest>RIC</Dest> <Dest>ROC</Dest> <Dest>YYT</Dest> <Dest>STL</Dest>
+				<Dest>SAV</Dest> <Dest>SBN</Dest> <Dest>SYR</Dest> <Dest>YYZ</Dest> <Dest>IAD</Dest>
+				<Dest>DCA</Dest> <Dest>PBI</Dest> <Dest>AVP</Dest> <Dest>RSW</Dest> <Dest>MIA</Dest>
+				<Dest>MYR</Dest> <Dest>ACK</Dest> <Dest>TVC</Dest>
+			</Airline>
+			<Airline>
+				<Name>Virgin America</Name>
+				<Dest>LAX</Dest>
+				<Dest>SFO</Dest>
+			</Airline>
+			<Airline>
+				<Name>VivaAerobus</Name>
+				<Dest>CUN</Dest>
+			</Airline>
+			<Airline>
+				<Name>Volaris</Name>
+				<Dest>CUN</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

@@ -1,0 +1,34 @@
+<AirportRegion>
+	<metro>Huntsville, AL</metro>
+	<Airport>
+		<code>HSV</code>
+		<name>Huntsville International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+				<Dest>DCA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+				<DestSznl>DTW</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+				<Dest>DTW</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+				<Dest>IAD</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

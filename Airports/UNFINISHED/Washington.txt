@@ -1,0 +1,24 @@
+<AirportRegion>
+	<metro>Washington</metro>
+	<Airport>
+		<code>XXX</code>
+		<name>XXXXX</name>
+		<Destinations>
+			<Airline>
+				<Name>XXX</Name>
+				<Dest>XXX</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+	<Airport>
+		<code>XXX</code>
+		<name>XXXXX</name>
+		<Destinations>
+			<Airline>
+				<Name>XXX</Name>
+				<Dest>XXX</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

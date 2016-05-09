@@ -1,0 +1,24 @@
+<AirportRegion>
+	<metro>Harlingen, TX</metro>
+	<Airport>
+		<code>HRL</code>
+		<name>Valley International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<DestSznl>MSP</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>AUS</Dest>
+				<Dest>HOU</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PS</FAArole>
+	</Airport>
+</AirportRegion>
+		

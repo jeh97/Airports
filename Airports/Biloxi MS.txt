@@ -1,0 +1,37 @@
+<AirportRegion>
+	<metro>Gulfport/Biloxi, MS</metro>
+	<Airport>
+		<code>GPT</code>
+		<name>Gulfport-Biloxi International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Sun Country Airlines</Name>
+				<Dest>DTW</Dest>
+				<Dest>SFB</Dest>
+				<Dest>PIE</Dest>
+				<Dest>MQY</Dest>
+				<Dest>YNG</Dest>
+
+				<DestSznl>MSP</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

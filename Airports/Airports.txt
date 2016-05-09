@@ -1,0 +1,73 @@
+Atlanta	0.731 0.6327
+Branson 0.562 0.5550
+Dallas	0.504 0.7055
+New York 0.882 0.3350
+Charlotte 0.794 0.5728
+Houston 0.525 0.8058
+New Orleans 0.624 0.7977
+Baton Rouge 0.603 0.7783
+Jackson 0.625 0.7104
+Austin 0.478 0.7977
+Memphis 0.618 0.6084
+Baltimore/Washington 0.844 0.4191
+Los Angeles 0.094 0.5825
+Chicago 0.642 0.3511
+Denver 0.351 0.4417
+San Francisco 0.041 0.4223
+Las Vegas 0.159 0.5243
+Phoenix 0.210 0.6278
+Orlando 0.803 0.8139
+Alexandria LA 0.575 0.7476
+Lafayette 0.590 0.7864
+Lake Charles 0.563 0.7929
+Monroe LA 0.585 0.7104
+Shreveport 0.554 0.7039
+Abilene TX 0.435 0.7120
+Amarillo 0.400 0.6100
+Beaumont TX 0.540 0.7994
+Brownsville TX 0.472 0.9450
+College Station TX 0.500 0.7783
+Corpus Christi 0.480 0.8754
+Del Rio 0.409 0.8155
+El Paso 0.307 0.7136
+Killeen TX 0.478 0.7573
+Harlingen TX 0.471 0.9353
+Laredo TX 0.436 0.8883
+Longview TX 0.528 0.7104
+Lubbock TX 0.400 0.6683
+McAllen TX 0.460 0.9369
+Midland TX 0.396 0.7249
+San Angelo TX 0.421 0.7476
+San Antonio 0.462 0.8091
+Tyler TX 0.519 0.7249
+Waco TX 0.487 0.7217
+Wichita Falls TX 0.457 0.6634
+Victoria TX 0.501 0.8269
+Columbus MS 0.643 0.6618
+Biloxi MS 0.650 0.7735
+Hattiesburg MS 0.641 0.7443
+Greenville MS 0.603 0.6634
+Meridian MS 0.649 0.7006
+Tupelo MS 0.644 0.6392
+Birmingham AL 0.680 0.6586
+Muscle Shoals AL 0.667 0.6165
+Montgomery AL 0.693 0.6990
+Mobile AL 0.663 0.7686
+Huntsville AL 0.686 0.6230
+Dothan AL 0.710 0.7298
+Baltimore 0.847 0.4045
+Chicago 0.643 0.3495
+Albany GA 0.740 0.7168
+Augusta GA 0.770 0.6440
+Brunswick GA 0.791 0.7233
+Columbus GA 0.720 0.6861
+Savannah GA 0.794 0.6942
+Valdosta GA 0.760 0.7411
+Fayetteville AR	 0.542 0.5809
+Fort Smith AR 0.536 0.6052
+Little Rock AR 0.576 0.6262
+Texarkana AR 0.543 0.6731
+El Dorado AR 0.570 0.6699
+Harrison AR 0.557 0.5777
+Hot Springs AR 0.564 0.6311
+Jonesboro AR 0.601 0.5858

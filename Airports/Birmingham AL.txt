@@ -1,0 +1,51 @@
+<AirportRegion>
+	<metro>Birmingham, AL</metro>
+	<Airport>
+		<code>BHM</code>
+		<name>Birmingham-Shuttlesworth International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>DFW</Dest>
+				<Dest>MIA</Dest>
+				<Dest>PHL</Dest>
+				<Dest>DCA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+				<Dest>DTW</Dest>
+				<Dest>LGA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southern Airways Express</Name>
+				<Dest>PDK</Dest>
+				<Dest>DSI</Dest>
+				<Dest>GUF</Dest>
+				<Dest>ECP</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>BWI</Dest>
+				<Dest>MDW</Dest>
+				<Dest>DAL</Dest>
+				<Dest>HOU</Dest>
+				<Dest>LAS</Dest>
+				<Dest>MCO</Dest>
+				<Dest>TPA</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

@@ -1,0 +1,14 @@
+<AirportRegion>
+	<metro>Texarkana, AR</metro>
+	<Airport>
+		<code>TXK</code>
+		<name>Texarkana Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

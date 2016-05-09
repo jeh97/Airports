@@ -1,0 +1,27 @@
+<AirportRegion>
+	<metro>Midland, TX</metro>
+	<Airport>
+		<code>MAF</code>
+		<name>Midland International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+				<Dest>PHX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>DAL</Dest>
+				<Dest>HOU</Dest>
+				<Dest>LAS</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PS</FAArole>
+	</Airport>
+</AirportRegion>
+		

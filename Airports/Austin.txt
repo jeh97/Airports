@@ -1,0 +1,124 @@
+<AirportRegion>
+	<metro>Austin</metro>
+	<Airport>
+		<code>AUS</code>
+		<name>Austin-Bergstrom International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Air Canada Express</Name>
+				<Dest>YYX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Alaska Airlines</Name>
+				<Dest>SEA</Dest>
+				<Dest>PDX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Allegiant Air</Name>
+				<Dest>CVG</Dest>
+				<Dest>LAS</Dest>
+				<Dest>MEM</Dest>
+				<Dest>SFB</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>CLT</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+				<Dest>LAX</Dest>
+				<Dest>MIA</Dest>
+				<Dest>JFK</Dest>
+				<Dest>PHX</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>PHX</Dest>
+				<Dest>CLT</Dest>
+				<Dest>LAX</Dest>
+			</Airline>
+			<Airline>
+				<Name>British Airways</Name>
+				<Dest>LHR</Dest>
+			</Airline>
+			<Airline>
+				<Name>Buzz Airways</Name>
+				<Dest>BKG</Dest>
+				<Dest>MDW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Condor</Name>
+				<Dest>FRA</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+				<Dest>LAX</Dest>
+				<Dest>MSP</Dest>
+				<Dest>JFK</Dest>
+				<Dest>SLC</Dest>
+				<Dest>DTW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>DTW</Dest>
+				<Dest>LAX</Dest>
+				<Dest>MSP</Dest>
+				<Dest>SLC</Dest>
+			</Airline>
+			<Airline>
+				<Name>Frontier Airlines</Name>
+				<Dest>ATL</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>LAS</Dest>
+			</Airline>
+			<Airline>
+				<Name>JetBlue Airways</Name>
+				<Dest>BOS</Dest>
+				<Dest>FLL</Dest>
+				<Dest>LGB</Dest>
+				<Dest>JFK</Dest>
+				<Dest>MCO</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>ATL</Dest> <Dest>BWI</Dest> <Dest>MDW</Dest> <Dest>DAL</Dest> <Dest>DEN</Dest>
+				<Dest>ELP</Dest> <Dest>FLL</Dest> <Dest>HRL</Dest> <Dest>HOU</Dest> <Dest>LAS</Dest>
+				<Dest>LAX</Dest> <Dest>LBB</Dest> <Dest>BNA</Dest> <Dest>EWR</Dest> <Dest>MSY</Dest>
+				<Dest>OAK</Dest> <Dest>SNA</Dest> <Dest>MCO</Dest> <Dest>PHX</Dest> <Dest>STL</Dest>
+				<Dest>SAN</Dest> <Dest>SJC</Dest> <Dest>SEA</Dest> <Dest>TPA</Dest> <Dest>DCA</Dest>
+				<Dest>CUN</Dest> <Dest>MEM</Dest> <Dest>PDX</Dest> <Dest>SJD</Dest>
+			</Airline>
+			<Airline>
+				<Name>Texas Sky Airlines</Name>
+				<Dest>DFW</Dest>
+				<Dest>VCT</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Airlines</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+				<Dest>EWR</Dest>
+				<Dest>SFO</Dest>
+				<Dest>IAD</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+				<Dest>EWR</Dest>
+				<Dest>LAX</Dest>
+				<Dest>SFO</Dest>
+				<Dest>IAD</Dest>
+			</Airline>
+			<Airline>
+				<Name>Virgin America</Name>
+				<Dest>SFO</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PM</FAArole>
+	</Airport>
+</AirportRegion>
+		

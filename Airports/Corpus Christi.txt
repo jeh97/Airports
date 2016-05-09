@@ -1,0 +1,23 @@
+<AirportRegion>
+	<metro>Courpus Christi/Kingsville</metro>
+	<Airport>
+		<code>CRP</code>
+		<name>Corpus Christi International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>HOU</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PS</FAArole>
+	</Airport>
+</AirportRegion>
+		

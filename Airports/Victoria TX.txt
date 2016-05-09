@@ -1,0 +1,16 @@
+<AirportRegion>
+	<metro>Victoria, TX</metro>
+	<Airport>
+		<code>VCT</code>
+		<name>Victoria Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Texas Sky Airlines</Name>
+				<Dest>AUS</Dest>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>CS</FAArole>
+	</Airport>
+</AirportRegion>
+		

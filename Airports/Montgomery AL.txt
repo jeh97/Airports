@@ -1,0 +1,19 @@
+<AirportRegion>
+	<metro>Montgomery</metro>
+	<Airport>
+		<code>MGM</code>
+		<name>Montgomery Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

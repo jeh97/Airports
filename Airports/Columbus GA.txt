@@ -1,0 +1,14 @@
+<AirportRegion>
+	<metro>Columbus, GA</metro>
+	<Airport>
+		<code>CSG</code>
+		<name>Columbus Metropolitan Airport (Georgia)</name>
+		<Destinations>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

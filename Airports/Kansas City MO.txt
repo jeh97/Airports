@@ -1,0 +1,111 @@
+<AirportRegion>
+	<metro>Kansas City, MO</metro>
+	<Airport>
+		<code>MCI</code>
+		<name>Kansas City International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Air Canada Express</Name>
+				<Dest>YYZ</Dest>
+			</Airline>
+			<Airline>
+				<Name>Alaska Airlines</Name>
+				<Dest>SEA</Dest>
+				<Dest>PDX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Allegiant Airlines</Name>
+				<Dest>SFB</Dest>
+				<Dest>PGD</Dest>
+				<Dest>PIE</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>CLT</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+				<Dest>LAX</Dest>
+				<Dest>MIA</Dest>
+				<Dest>PHL</Dest>
+				<Dest>PHX</Dest>
+
+				<DestSznl>CUN</DestSznl>
+				<DestSznl>DCA</DestSznl>
+
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>ORD</Dest>
+				<Dest>LAX</Dest>
+				<Dest>LGA</Dest>
+				<Dest>PHL</Dest>
+				<Dest>DCA</Dest>
+
+				<DestSznl>CLT</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+				<Dest>DTW</Dest>
+				<Dest>MSP</Dest>
+				<Dest>SLC</Dest>
+
+				<DestSznl>LAX</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>CVG</Dest>
+				<Dest>LAX</Dest>
+				<Dest>MSP</Dest>
+				<Dest>LGA</Dest>
+
+				<DestSznl>DTW</DestSznl>
+				<DestSznl>MCO</DestSznl>
+				<DestSznl>SLC</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Frontier Airlines</Name>
+				<Dest>ATL</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>MCO</Dest>
+				<Dest>PHL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>ABQ</Dest> <Dest>ATL</Dest> <Dest>BWI</Dest> <Dest>BOS</Dest> <Dest>MDW</Dest>
+				<Dest>DAL</Dest> <Dest>DEN</Dest> <Dest>FLL</Dest> <Dest>HOU</Dest> <Dest>IND</Dest>
+				<Dest>LAS</Dest> <Dest>LAX</Dest> <Dest>MKE</Dest> <Dest>MSP</Dest> <Dest>BNA</Dest>
+				<Dest>MSY</Dest> <Dest>LGA</Dest> <Dest>OAK</Dest> <Dest>SNA</Dest> <Dest>MCO</Dest>
+				<Dest>PNS</Dest> <Dest>PHX</Dest> <Dest>PDX</Dest> <Dest>SEA</Dest> <Dest>STL</Dest>
+				<Dest>SAN</Dest> <Dest>TPA</Dest> <Dest>DCA</Dest>
+
+				<DestSznl>RSW</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Spirit Airlines</Name>
+				<Dest>DTW</Dest>
+				<Dest>LAS</Dest>
+				<Dest>LAX</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Airlines</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+
+				<DestSznl>IAH</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+				<Dest>EWR</Dest>
+				<Dest>SFO</Dest>
+				<Dest>IAD</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PM</FAArole>
+	</Airport>
+</AirportRegion>
+		

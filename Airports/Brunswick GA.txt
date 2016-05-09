@@ -1,0 +1,14 @@
+<AirportRegion>
+	<metro>Brunswick, GA</metro>
+	<Airport>
+		<code>BQK</code>
+		<name>Brunswick Golden Isle Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

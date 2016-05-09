@@ -1,0 +1,16 @@
+<AirportRegion>
+	<metro>Hot Springs, AR</metro>
+	<Airport>
+		<code>HOT</code>
+		<name>Memorial Field Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>SeaPort Airlines</Name>
+				<Dest>ELD</Dest>
+				<Dest>IAH</Dest>
+				<Dest>MEM</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

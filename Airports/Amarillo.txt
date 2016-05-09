@@ -1,0 +1,25 @@
+<AirportRegion>
+	<metro>Amarillo</metro>
+	<Airport>
+		<code>AMA</code>
+		<name>Rick Husband Amarillo International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>DAL</Dest>
+				<Dest>LAS</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PS</FAArole>
+	</Airport>
+</AirportRegion>
+		

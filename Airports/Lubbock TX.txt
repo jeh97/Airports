@@ -1,0 +1,33 @@
+<AirportRegion>
+	<metro>Lubbock</metro>
+	<Airport>
+		<code>LBB</code>
+		<name>Lubbock Preston Smith International Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Airlines</Name>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+				<Dest>PHX</Dest>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>AUS</Dest>
+				<Dest>DAL</Dest>
+				<Dest>ELP</Dest>
+				<Dest>HOU</Dest>
+				<Dest>LAS</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+		<FAArole>PS</FAArole>
+	</Airport>
+</AirportRegion>
+		

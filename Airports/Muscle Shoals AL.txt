@@ -1,0 +1,15 @@
+<AirportRegion>
+	<metro>Muscle Shoals, AL</metro>
+	<Airport>
+		<code>MSL</code>
+		<name>Northwest Alabama Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Boutique Air</Name>
+				<Dest>ATL</Dest>
+				<Dest>BNA</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

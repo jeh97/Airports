@@ -1,0 +1,15 @@
+<AirportRegion>
+	<metro>Meridian, MS</metro>
+	<Airport>
+		<code>MEI</code>
+		<name>Meridian Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>DFW</Dest>
+				<Dest>PIB</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

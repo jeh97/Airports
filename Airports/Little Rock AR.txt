@@ -1,0 +1,50 @@
+<AirportRegion>
+	<metro>Little Rock, AR</metro>
+	<Airport>
+		<code>LIT</code>
+		<name>Clinton National Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Allegiant Air</Name>
+				<Dest>SFB</Dest>
+
+				<DestSznl>LAX</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>American Eagle</Name>
+				<Dest>CLT</Dest>
+				<Dest>ORD</Dest>
+				<Dest>DFW</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Air Lines</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+				<Dest>DTW</Dest>
+			</Airline>
+			<Airline>
+				<Name>GLO Airlines</Name>
+				<Dest>MSY</Dest>
+
+				<DestSznl>VPS</DestSznl>
+			</Airline>
+			<Airline>
+				<Name>Southwest Airlines</Name>
+				<Dest>DAL</Dest>
+				<Dest>LAS</Dest>
+				<Dest>PHX</Dest>
+				<Dest>STL</Dest>
+			</Airline>
+			<Airline>
+				<Name>United Express</Name>
+				<Dest>ORD</Dest>
+				<Dest>DEN</Dest>
+				<Dest>IAH</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		

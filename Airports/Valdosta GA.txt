@@ -1,0 +1,14 @@
+<AirportRegion>
+	<metro>Valdosta, GA</metro>
+	<Airport>
+		<code>VLD</code>
+		<name>Valdosta Regional Airport</name>
+		<Destinations>
+			<Airline>
+				<Name>Delta Connection</Name>
+				<Dest>ATL</Dest>
+			</Airline>
+		</Destinations>
+	</Airport>
+</AirportRegion>
+		
